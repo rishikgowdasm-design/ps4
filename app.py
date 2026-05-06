@@ -5,7 +5,7 @@ import plotly.express as px
 import time
 
 # 1. Page Configuration
-st.set_page_config(page_title="CreatorSync Pro | Ultra Contrast", layout="wide")
+st.set_page_config(page_title="Creator Content Posting Optimization System", layout="wide")
 
 # 2. Ultra-Contrast Glassmorphism CSS
 st.markdown("""
